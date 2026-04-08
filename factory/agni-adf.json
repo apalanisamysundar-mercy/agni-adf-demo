@@ -1,0 +1,9 @@
+{
+	"name": "agni-adf",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51d201f6-2cda-4d78-aa56-8a450ce8ccce",
+		"tenantId": "88404777-f24b-4e1c-ada1-bde9cda22754"
+	}
+}

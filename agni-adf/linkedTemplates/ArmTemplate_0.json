@@ -51,7 +51,6 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileName": "tripdata_curated_backup.csv",
 						"folderPath": "backup",
 						"fileSystem": "agni-curated"
 					},
